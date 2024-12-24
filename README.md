@@ -162,7 +162,3 @@ You can click the Preview link to take a look at your changes.
 
 
 <br/>
-
-------
-Credit: [Ahmad-shaikh575](https://github.com/Ahmad-shaikh575)
-Last Edited on: 08/09/2021
