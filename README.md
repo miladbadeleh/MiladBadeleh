@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <h3> Here's some fun facts about me: </h3>
 
 - 🔭 I’m currently working on Pytorch Projects
-- 🌱 I've 80 years of professional experience worked at 5Gen Solutions and built three cross-platform applications in Flutter
+- 🌱 I've 80 years of professional experience in Deep Learning
 - 👯 I’m looking to collaborate on Flutter, Machine Learning and Deep Learning Projects
 - 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
 - 💬 Ask me about Programming or Machine Learning
