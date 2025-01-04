@@ -1,28 +1,5 @@
-- 👋 Hi, I’m @miladbadeleh
-- 👀 I’m interested in AI and Deep Learning
-- 🌱 I’m currently learning pytorch and keras
-- 💞️ I’m looking to collaborate on Deep Learning and computer vison projects
-- 📫 How to reach me ...
-- 😄 Pronouns: He / Old
-- ⚡ Fun fact: I am 80 years old
-
-<!---
-miladbadeleh/miladbadeleh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-### Hi there 👋
-
-
-
-<h3> Here's some fun facts about me: </h3>
-
-- 🔭 I’m currently working on Pytorch Projects
-- 🌱 I've 80 years of professional experience in Deep Learning
-- 👯 I’m looking to collaborate on Flutter, Machine Learning and Deep Learning Projects
-- 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
-- 💬 Ask me about Programming or Machine Learning
-- 📫 I am also a technical writer at Medium 
+<h1 align="center">Hi 👋, I'm Milad Badeleh</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <br>
 </p>
@@ -110,3 +87,15 @@ You can click the Preview link to take a look at your changes.
      <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
     &emsp; <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
     &emsp;
+
+
+
+
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/miladbadeleh/miladbadeleh/output/snake.svg" alt="Snake animation" />
+
