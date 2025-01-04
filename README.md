@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Milad Badeleh</h1>
-<h3 align="center">A passionate Data Scientist from Iran</h3>
-
 <br>
 </p>
 
