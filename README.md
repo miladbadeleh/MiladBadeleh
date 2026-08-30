@@ -107,14 +107,6 @@ I transform messy, raw data into clean, actionable insights through:
 
 ---
 
-## 📊 GitHub Stats
-
-![Milad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miladbadeleh&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miladbadeleh&layout=compact&theme=radical)
-
----
-
 ## 🔗 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miladbadeleh)
@@ -134,15 +126,6 @@ My philosophy:
 
 ---
 
-## 🏆 Certifications & Achievements
-
-- ✅ Power BI Data Analyst
-- ✅ SQL for Data Analysis
-- ✅ Data Warehouse Design
-- ✅ Business Intelligence Fundamentals
-
----
-
 ## 📫 Let's Work Together
 
 I'm always interested in connecting with fellow data professionals and exploring new opportunities.
@@ -150,6 +133,3 @@ I'm always interested in connecting with fellow data professionals and exploring
 - 💼 Open to: Data Analyst, BI Developer, Business Intelligence roles
 - 📧 Email: Milad.badeleh1@gmail.com
 - 📍 Location: Tehran, Iran (Open to remote)
-
----
-
