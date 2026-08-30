@@ -97,13 +97,6 @@ I transform messy, raw data into clean, actionable insights through:
 
 ---
 
-## 🔗 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miladbadeleh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Milad.badeleh1@gmail.com)
-
----
-
 ## 💡 My Approach
 
 > "I don't just create dashboards. I build data solutions that answer business questions, identify opportunities, and drive growth."
