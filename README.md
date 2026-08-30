@@ -153,5 +153,3 @@ I'm always interested in connecting with fellow data professionals and exploring
 
 ---
 
-⭐ **Check out my repositories below and feel free to star any projects you find interesting!**
-```
