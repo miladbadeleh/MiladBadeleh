@@ -97,16 +97,6 @@ I transform messy, raw data into clean, actionable insights through:
 
 ---
 
-## 🎓 Domains I Work In
-
-| Domain | Focus Areas |
-|--------|-------------|
-| **Retail** | Customer segmentation, Market basket, Sales analytics |
-| **Banking** | Loan analysis, Risk assessment, Compliance |
-| **HR** | Attrition, Recruitment, Performance, Diversity |
-
----
-
 ## 🔗 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miladbadeleh)
